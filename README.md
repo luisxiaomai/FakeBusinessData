@@ -40,9 +40,8 @@ Or if you want to generate hundreds of data you can run below command:
 > **Run jmeter case to add fake data to Your project**
 
 **Precondition:**
--
--
--
+- xxx
+- xxx
 
 Once basic data are generated, you can run the ``YourJmeterCase.jmx`` to import all the data to your project. 
 
